@@ -6,3 +6,4 @@ console.log(mySet);
 
 let UniqueArr = [...mySet];
 console.log(arr);
+
